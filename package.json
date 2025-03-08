@@ -1,0 +1,14 @@
+{
+  "name": "webkit-normalize",
+  "version": "1.0.0",
+  "description": "A lightweight library to normalize WebKit-specific implementations to standard APIs.",
+  "main": "webkit-normalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webkit", "normalization", "compatibility", "cross-browser"
+  ],
+  "author": "Atik Solanki",
+  "license": "MIT"
+}
