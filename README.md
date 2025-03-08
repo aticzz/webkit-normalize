@@ -98,6 +98,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Support
-If you find this library useful, consider giving it a ⭐️ on GitHub.
-
